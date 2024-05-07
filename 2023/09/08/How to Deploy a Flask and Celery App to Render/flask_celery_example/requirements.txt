@@ -1,7 +1,0 @@
-flask 
-celery 
-redis 
-flask-sqlalchemy 
-flask-wtf 
-psycopg2-binary
-gunicorn
